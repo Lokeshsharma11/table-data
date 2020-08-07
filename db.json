@@ -3,112 +3,112 @@
         {
             "questionid": "01",
             "enable-disable": "enable",
-            "question": "question",
+            "question": "What terms describe the study?",
             "notapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "responseformat": "CHECKLIST",
+            "default-text": "N/A",
+            "options": "Guideline"
         },
         {
             "questionid": "02",
-            "enable-disable": "enable",
-            "question": "question",
+            "enable-disable": "disable",
+            "question": "What’s the clinical Question?",
             "notapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "&lt; 1000 characters",
+            "responseformat": "CHECKLIST",
+            "default-text": "N/A",
+            "options": "Consensus Statement"
         },
         {
             "questionid": "03",
             "enable-disable": "enable",
-            "question": "question",
+            "question": "Was there a morbidity benefit?",
             "notapplicableselector": "Not Applicable",
             "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
-            "questionid": "04",
-            "enable-disable": "disable",
-            "question": "question",
-            "notapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
-        },
-        {
-            "questionid": "05",
+            "questionid": "03",
             "enable-disable": "enable",
-            "question": "question",
+            "question": "Was there a palliative benefit?",
             "notapplicableselector": "Not Applicable",
             "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
-            "questionid": "06",
-            "enable-disable": "disable",
-            "question": "question",
-            "notapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
-        },
-        {
-            "questionid": "07",
+            "questionid": "03",
             "enable-disable": "enable",
-            "question": "question",
+            "question": "What was the bottom line / conclusion?",
             "notapplicableselector": "Not Applicable",
             "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
-            "questionid": "08",
+            "questionid": "03",
             "enable-disable": "enable",
-            "question": "question",
+            "question": "Was there a morbidity benefit?",
             "notapplicableselector": "Not Applicable",
             "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
-            "questionid": "09",
+            "questionid": "03",
             "enable-disable": "enable",
-            "question": "question",
+            "question": "Was there a palliative benefit?",
             "notapplicableselector": "Not Applicable",
             "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
-            "questionid": "10",
+            "questionid": "03",
             "enable-disable": "enable",
-            "question": "question",
+            "question": "Was there a morbidity benefit?",
             "notapplicableselector": "Not Applicable",
             "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
-            "questionid": "11",
+            "questionid": "03",
             "enable-disable": "enable",
-            "question": "question",
+            "question": "Was there a palliative benefit?",
             "notapplicableselector": "Not Applicable",
             "instructions": "difficult",
-            "responseformat": "good",
-            "default-text": "Text",
-            "options": "correct/incorrect"
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
+        },
+        {
+            "questionid": "03",
+            "enable-disable": "enable",
+            "question": "Was there a morbidity benefit?",
+            "notapplicableselector": "Not Applicable",
+            "instructions": "difficult",
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
+        },
+        {
+            "questionid": "03",
+            "enable-disable": "enable",
+            "question": "What was the bottom line / conclusion?",
+            "notapplicableselector": "Not Applicable",
+            "instructions": "difficult",
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
         }
     ],
     "subquestions": [
@@ -118,10 +118,10 @@
             "questionid": "01",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "02",
@@ -129,10 +129,10 @@
             "questionid": "02",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "03",
@@ -140,10 +140,10 @@
             "questionid": "03",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "04",
@@ -151,10 +151,10 @@
             "questionid": "04",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "05",
@@ -162,10 +162,10 @@
             "questionid": "05",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "06",
@@ -173,10 +173,10 @@
             "questionid": "06",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "07",
@@ -184,10 +184,10 @@
             "questionid": "07",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "08",
@@ -195,10 +195,10 @@
             "questionid": "08",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "09",
@@ -206,10 +206,10 @@
             "questionid": "09",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "10",
@@ -217,10 +217,10 @@
             "questionid": "10",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         },
         {
             "subquestionid": "11",
@@ -228,10 +228,10 @@
             "questionid": "01",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "subqformat": "good",
-            "subqdefault-text": "Text",
-            "options": "correct/incorrect"
+            "instructions": "Select all that apply",
+            "subqformat": "FREE_TEXT",
+            "subqdefault-text": "N/A",
+            "options": "YES/NO/NA"
         }
     ]
 }
