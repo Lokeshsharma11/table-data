@@ -169,16 +169,6 @@
             "responseformat": "RADIO_SELECTION",
             "default-text": "N/A",
             "options": "YES/NO/NA"
-        },
-        {
-            "questionid": "18",
-            "enable-disable": "enable",
-            "question": "What was the bottom line / conclusion?",
-            "notapplicableselector": "Not Applicable",
-            "instructions": "difficult",
-            "responseformat": "RADIO_SELECTION",
-            "default-text": "N/A",
-            "options": "YES/NO/NA"
         }
     ],
     "subquestions": [
