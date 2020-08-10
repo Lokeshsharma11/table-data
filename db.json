@@ -159,6 +159,26 @@
             "responseformat": "RADIO_SELECTION",
             "default-text": "N/A",
             "options": "YES/NO/NA"
+        },
+        {
+            "questionid": "17",
+            "enable-disable": "enable",
+            "question": "Was there a morbidity benefit?",
+            "notapplicableselector": "Not Applicable",
+            "instructions": "difficult",
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
+        },
+        {
+            "questionid": "18",
+            "enable-disable": "enable",
+            "question": "What was the bottom line / conclusion?",
+            "notapplicableselector": "Not Applicable",
+            "instructions": "difficult",
+            "responseformat": "RADIO_SELECTION",
+            "default-text": "N/A",
+            "options": "YES/NO/NA"
         }
     ],
     "subquestions": [
@@ -287,50 +307,6 @@
             "subquestionid": "12",
             "enable-disable": "enable",
             "questionid": "06",
-            "subquestion": "sub-question",
-            "subnotapplicableselector": "Not Applicable",
-            "instructions": "Select all that apply",
-            "subqformat": "FREE_TEXT",
-            "subqdefault-text": "N/A",
-            "options": "YES/NO/NA"
-        },
-        {
-            "subquestionid": "13",
-            "enable-disable": "enable",
-            "questionid": "07",
-            "subquestion": "sub-question",
-            "subnotapplicableselector": "Not Applicable",
-            "instructions": "Select all that apply",
-            "subqformat": "FREE_TEXT",
-            "subqdefault-text": "N/A",
-            "options": "YES/NO/NA"
-        },
-        {
-            "subquestionid": "14",
-            "enable-disable": "enable",
-            "questionid": "08",
-            "subquestion": "sub-question",
-            "subnotapplicableselector": "Not Applicable",
-            "instructions": "Select all that apply",
-            "subqformat": "FREE_TEXT",
-            "subqdefault-text": "N/A",
-            "options": "YES/NO/NA"
-        },
-        {
-            "subquestionid": "15",
-            "enable-disable": "enable",
-            "questionid": "09",
-            "subquestion": "sub-question",
-            "subnotapplicableselector": "Not Applicable",
-            "instructions": "Select all that apply",
-            "subqformat": "FREE_TEXT",
-            "subqdefault-text": "N/A",
-            "options": "YES/NO/NA"
-        },
-        {
-            "subquestionid": "16",
-            "enable-disable": "enable",
-            "questionid": "10",
             "subquestion": "sub-question",
             "subnotapplicableselector": "Not Applicable",
             "instructions": "Select all that apply",
