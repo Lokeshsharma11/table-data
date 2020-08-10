@@ -337,17 +337,6 @@
             "subqformat": "FREE_TEXT",
             "subqdefault-text": "N/A",
             "options": "YES/NO/NA"
-        },
-        {
-            "subquestionid": "17",
-            "enable-disable": "enable",
-            "questionid": "01",
-            "subquestion": "sub-question",
-            "subnotapplicableselector": "Not Applicable",
-            "instructions": "Select all that apply",
-            "subqformat": "FREE_TEXT",
-            "subqdefault-text": "N/A",
-            "options": "YES/NO/NA"
         }
     ]
 }
