@@ -31,7 +31,7 @@
             "options": "YES/NO/NA"
         },
         {
-            "questionid": "03",
+            "questionid": "04",
             "enable-disable": "enable",
             "question": "Was there a palliative benefit?",
             "notapplicableselector": "Not Applicable",
@@ -41,7 +41,7 @@
             "options": "YES/NO/NA"
         },
         {
-            "questionid": "03",
+            "questionid": "05",
             "enable-disable": "enable",
             "question": "What was the bottom line / conclusion?",
             "notapplicableselector": "Not Applicable",
@@ -51,7 +51,7 @@
             "options": "YES/NO/NA"
         },
         {
-            "questionid": "03",
+            "questionid": "06",
             "enable-disable": "enable",
             "question": "Was there a morbidity benefit?",
             "notapplicableselector": "Not Applicable",
@@ -61,7 +61,7 @@
             "options": "YES/NO/NA"
         },
         {
-            "questionid": "03",
+            "questionid": "07",
             "enable-disable": "enable",
             "question": "Was there a palliative benefit?",
             "notapplicableselector": "Not Applicable",
@@ -71,7 +71,7 @@
             "options": "YES/NO/NA"
         },
         {
-            "questionid": "03",
+            "questionid": "08",
             "enable-disable": "enable",
             "question": "Was there a morbidity benefit?",
             "notapplicableselector": "Not Applicable",
@@ -81,7 +81,7 @@
             "options": "YES/NO/NA"
         },
         {
-            "questionid": "03",
+            "questionid": "09",
             "enable-disable": "enable",
             "question": "Was there a palliative benefit?",
             "notapplicableselector": "Not Applicable",
@@ -91,7 +91,7 @@
             "options": "YES/NO/NA"
         },
         {
-            "questionid": "03",
+            "questionid": "10",
             "enable-disable": "enable",
             "question": "Was there a morbidity benefit?",
             "notapplicableselector": "Not Applicable",
@@ -101,7 +101,7 @@
             "options": "YES/NO/NA"
         },
         {
-            "questionid": "03",
+            "questionid": "11",
             "enable-disable": "enable",
             "question": "What was the bottom line / conclusion?",
             "notapplicableselector": "Not Applicable",
